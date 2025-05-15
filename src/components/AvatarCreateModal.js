@@ -17,7 +17,7 @@ const AvatarCreateModal = ({ isModalOpen, onClose }) => {
             id="name"
             type="text"
             placeholder="Your Name"
-            className="w-full mb-3 p-2 border border-teal-600 rounded bg-teal-700 placeholder-gray-400 text-gray-200 focus:outline-none focus:border-pink-500 transition duration-300"
+            className="font-[Poppins] w-full mb-3 p-2 border border-teal-600 rounded bg-teal-700 placeholder-gray-400 text-gray-200 focus:outline-none focus:border-pink-500 transition duration-300"
           />
 
           {/* Image URL Input */}
